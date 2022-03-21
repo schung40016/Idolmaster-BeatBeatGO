@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bde02c8b30f317489c7bdf759730e18, type: 3}
+  m_Name: Cherry Colored Love
+  m_EditorClassIdentifier: 
+  songName: Cherry Colored Love
+  producedBy: 765
+  singer: Sherry 'n Cherry
+  BGM: 111
+  credits: Bandai Namco
+  videoClip: {fileID: 32900000, guid: 8c413fd78965d214faede570cdfe7825, type: 3}
+  wavMap: 
+  songClip: {fileID: 8300000, guid: c887532c289a9a3448796b05464cf40f, type: 3}
+  fullSong: {fileID: 8300000, guid: 1e62dd4aecdf6de43a5b627dff2ba9ed, type: 3}

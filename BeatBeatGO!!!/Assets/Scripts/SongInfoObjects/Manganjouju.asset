@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bde02c8b30f317489c7bdf759730e18, type: 3}
+  m_Name: Manganjouju
+  m_EditorClassIdentifier: 
+  songName: "\u6E80\u9858\u6210\u5C31\u266A\u5DEB\u5973\u306E\u795E\u983C\u307F\uFF01"
+  producedBy: 365
+  singer: "\u9053\u660E\u5BFA\u6B4C\u9234"
+  BGM: 130
+  credits: Bandai Namco
+  videoClip: {fileID: 32900000, guid: f71bd66d1b4fcf5468ec06179c7e8529, type: 3}
+  wavMap: 
+  songClip: {fileID: 8300000, guid: d1ccac852f82a8c4e9c259ac456e168a, type: 3}
+  fullSong: {fileID: 8300000, guid: cb9aaa0b90bc96e44bbfcf2d8a65c727, type: 3}

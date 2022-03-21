@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bde02c8b30f317489c7bdf759730e18, type: 3}
+  m_Name: Itsutsuza Ryuuseigun
+  m_EditorClassIdentifier: 
+  songName: "\u4E94\u30C4\u5EA7\u6D41\u661F\u7FA4"
+  producedBy: 238
+  singer: "\u653E\u8AB2\u5F8C\u30AF\u30E9\u30A4\u30DE\u30C3\u30AF\u30B9\u30AC\u30FC\u30EB\u30BA"
+  BGM: 0
+  credits: Bandai Namco
+  videoClip: {fileID: 32900000, guid: 4cff0425ebf0ea34484198cf29dd7e33, type: 3}
+  wavMap: 
+  songClip: {fileID: 8300000, guid: 2ebd773efacf53346a6a061b44e77475, type: 3}
+  fullSong: {fileID: 8300000, guid: 4e50aa833c69b8041b972c889090e35d, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bde02c8b30f317489c7bdf759730e18, type: 3}
+  m_Name: SOS
+  m_EditorClassIdentifier: 
+  songName: SOS
+  producedBy: 238
+  singer: "\u9EDB\u51AC\u512A\u5B50"
+  BGM: 0
+  credits: Bandai Namco
+  videoClip: {fileID: 32900000, guid: 7ef7a8ace2bce584eb41692db830e740, type: 3}
+  wavMap: 
+  songClip: {fileID: 8300000, guid: c91145009989f7644a6b31930d5833f9, type: 3}
+  fullSong: {fileID: 8300000, guid: 397c478106eb9224f9a3b7f6f6ec1bcc, type: 3}

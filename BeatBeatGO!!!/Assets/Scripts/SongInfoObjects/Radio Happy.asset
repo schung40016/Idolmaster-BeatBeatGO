@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bde02c8b30f317489c7bdf759730e18, type: 3}
+  m_Name: Radio Happy
+  m_EditorClassIdentifier: 
+  songName: Radio Happy
+  producedBy: 365
+  singer: "\u5927\u69FB\u552F"
+  BGM: 132
+  credits: Bandai Namco
+  videoClip: {fileID: 32900000, guid: 1ab55afa4530c1e4a8979605aef18f08, type: 3}
+  wavMap: 
+  songClip: {fileID: 8300000, guid: 5802d308efe2cc94fbc3de6d3215d9f5, type: 3}
+  fullSong: {fileID: 8300000, guid: ad4932e51dd2c004888c1166aadbd7fb, type: 3}
